@@ -121,7 +121,7 @@ git pull
 
 - [Travis CI Builds](https://travis-ci.org/opacity/webinterface) - Build Report
 - [E2E Test Dashboard (Cypress)](https://www.cypress.io/) - E2E test results
-- [Code Climate](https://codeclimate.com/github/opacity/webinterface) - Reports code coverage, maintainability, and trends
+- [Code Climate](https://docs.codeclimate.com/docs/configuring-test-coverage) - Reports code coverage, maintainability, and trends
 
 ## Contributing
 
